@@ -56,7 +56,7 @@ jobs:
         sudo apt -y install build-essential git lzop build-essential gcc bc libncurses5-dev libc6-i386 lib32stdc++6 zlib1g netpbm imgp
 
         # Clone the correct kernel repo for this kernel build
-        git clone https://github.com/christianhaitian/kernel_5_10_226.git
+        git clone https://github.com/AeolusUX/kernel_5_10_226.git
         #cd kernel_5_10_226
         #git checkout --detach 1d753ad52e65554868b69341f17e3f268888f75e
 
